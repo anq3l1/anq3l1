@@ -19,8 +19,6 @@ Currently learning:
 - Linux & system programming
 - Computer networks
 - Python
-- SQL
-- Qt
 
 ---
 
