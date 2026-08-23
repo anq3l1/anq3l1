@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hey, I'm anq3l1 👋
 
-<!--
-**anq3l1/anq3l1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 C++ developer in progress  
+🐧 Linux enthusiast  
+🌐 Interested in networking & systems programming  
+🛠️ Currently building small tools and learning how things work under the hood
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a developer focused on **C++**, **Linux** and low-level programming.
+
+I enjoy building things from scratch, experimenting with Linux internals, working with sockets and networking, and turning small ideas into working projects.
+
+Currently learning:
+
+- C++
+- Linux & system programming
+- Computer networks
+- Python
+- SQL
+- Qt
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Environment
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+```text
+C++
+ ├── STL
+ ├── OOP
+ ├── Memory management
+ ├── Linux APIs
+ └── Networking
+
+Linux
+ ├── /proc
+ ├── /sys
+ ├── sockets
+ ├── processes
+ └── system calls
