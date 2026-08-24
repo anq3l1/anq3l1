@@ -38,20 +38,3 @@ Currently learning:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
-## 📚 Currently Learning
-
-```text
-C++
- ├── STL
- ├── OOP
- ├── Memory management
- ├── Linux APIs
- └── Networking
-
-Linux
- ├── /proc
- ├── /sys
- ├── sockets
- ├── processes
- └── system calls
