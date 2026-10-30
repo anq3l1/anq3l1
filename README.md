@@ -19,6 +19,7 @@ Currently learning:
 - Linux & system programming
 - Computer networks
 - Python
+- JavaScript🤏
 
 ---
 
